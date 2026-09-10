@@ -84,6 +84,8 @@ else:
 print(1)                           #1
 
 
+#match case
+
 day = 5
 
 match day:
