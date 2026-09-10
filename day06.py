@@ -77,6 +77,7 @@ print(l)             # []
 # print(a, l)              #None [5, 4, 3, 2, 1]
 # print(id(l))             # [1, 2, 3, 4, 5]
 
+
 # sort()
 l = [1,4,2,6,5,3]
 print(id(l)) 
